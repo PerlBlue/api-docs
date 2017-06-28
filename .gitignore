@@ -1,0 +1,8 @@
+.*
+!.gitignore
+!.gitmodules
+*~
+site/public
+docs/components/
+
+docs/_site/
